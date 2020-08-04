@@ -4,4 +4,3 @@ class Dog
     @breed = breed
 end #
 
-fido = Dog.new
