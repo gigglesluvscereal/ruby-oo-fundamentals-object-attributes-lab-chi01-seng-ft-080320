@@ -5,7 +5,7 @@ class Dog
  end
  
  def initialize 
-  @this_dogs_name = this_dogs_name
+  @this_dogs_name = dogs name
   @breed = breed
  end
 end 
