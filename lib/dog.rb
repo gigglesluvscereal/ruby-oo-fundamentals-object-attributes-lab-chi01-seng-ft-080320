@@ -1,10 +1,12 @@
 class Dog 
- def define_name 
-   @this_dogs_name = dogs_name
-   @breed = breed
+  
+ def name=(dogs_name)
+   @name = name
  end
  
- def initialize 
+ def 
+ 
+ def breed
   @this_dogs_name = dogs_name
   @breed = breed
  end
